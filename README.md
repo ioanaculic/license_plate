@@ -1,6 +1,6 @@
 #License Plate Recognition
 
 * Install Wyliodrin STUDIO
-* Import de project
+* Import the project
 * Create the schematics
 * Run the application
